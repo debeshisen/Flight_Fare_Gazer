@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+pandas
+scikit-learn
+xgboost
+joblib
+pydantic
+numpy
+pytest
+httpx
+kaggle
+prophet
+playwright
+playwright-stealth
+python-dotenv
