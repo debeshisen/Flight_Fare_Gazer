@@ -1,4 +1,4 @@
-# ✈️ Fare-Gazer v5
+# ✈️ Flight Fare Gazer (Fare-Gazer v5)
 
 **A FinTech Intelligence Engine Bridging Advanced Stacking Ensembles and Consumer-Centric Explainable AI**
 
@@ -10,8 +10,6 @@
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](#license)
 
 Fare-Gazer v5 demystifies the "black box" of airline revenue-management pricing. It combines a **Stacking Ensemble ML pipeline** (XGBoost + Random Forest + HistGradientBoosting → RidgeCV meta-learner) with a fully transparent **Explainable AI Confidence Engine**, so users don't just get a price forecast — they get the *reasoning* behind it.
-
-> Built for **BCSE334L – Predictive Analysis**, VIT Chennai (April 2026)
 
 ---
 
@@ -232,17 +230,6 @@ The app should now be running at `http://localhost:3000` with the API served fro
 5. Pedregosa, F., et al. (2011). *Scikit-learn: Machine Learning in Python.* JMLR, 12, 2825–2830.
 6. [Next.js Documentation](https://nextjs.org/docs)
 7. [FastAPI Documentation](https://fastapi.tiangolo.com/)
-
----
-
-## 👥 Team
-
-Built for **BCSE334L – Predictive Analysis** (Slot G2 + TG2), VIT Chennai — April 2026
-
-- Debeshi Sen — 23BDS1055
-- Sarmad Sultan — 23BLC1056
-- Souhardya Ghosh — 23BLC1064
-- Garav Malik — 23BLC1091
 
 ---
 
